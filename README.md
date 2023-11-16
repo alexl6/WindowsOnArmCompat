@@ -17,6 +17,7 @@ A list of applications compatible on my Windows on ARM device. Tested on Surface
 | PDF Ink | ARM | No longer getting updates? |
 | LiquidText PDF | ARM64 |  |
 | MS Whiteboard | PWA? | |
+| MS Journal | ARM64 | |
 | Tableau | x64 | Very slow in emulation |
 | --- | --- | --- |
 | **File management** |  |  |
@@ -31,7 +32,8 @@ A list of applications compatible on my Windows on ARM device. Tested on Surface
 | MS Teams | ARM64 |  |
 | --- | --- | --- |
 | **Media consumption** |  |  |
-| ATube | ARM | Thumbnail broken. Can't sign into Google Account. Supports modern standby. |
+| Google account sign in is broken for 3rd-party YouTube apps |
+| ATube | ARM | Thumbnail broken. Supports modern standby. |
 | myTube | ARM | Need to make your own free API key. Supports modern standby. |
 | VLC | ARM64 | |
 | Spotify | ARM64 |  |
@@ -44,6 +46,7 @@ A list of applications compatible on my Windows on ARM device. Tested on Surface
 | Rufus | ARM64 |  |
 | OpenVPN (GUI) | ARM64 |  |
 | Energy Star X | ARM64 | Enables EcoQoS/Efficiency Mode for background applications |
+| Character Map UWP | ARM64 |  |
 | YubiKey Manager | x86 |  |
 | --- | --- | --- |
 | **Windows Subsystems & Virutalization** |  |  |
